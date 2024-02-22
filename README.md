@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/omar-magd-34026b222">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn_account">
   </a>
-  <a href="https://ibrahim-mohamedh.github.io/IbrahimMohamed/">
+  <a href="https://omar-magdelislam3327.github.io/Iportfolio/">
     <img src="https://img.shields.io/badge/Portfolio-1f6af5?style=for-the-badge&logo=brave&logoColor=white" alt="LinkedIn_account">
   </a>
 </div>
